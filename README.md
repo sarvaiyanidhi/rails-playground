@@ -1,0 +1,1 @@
+This repository serves as a sandbox for exploring and demonstrating different aspects of Ruby on Rails development. Each subdirectory contains a standalone Rails application focused on a specific feature, gem, or integration.
