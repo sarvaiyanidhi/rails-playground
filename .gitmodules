@@ -1,3 +1,6 @@
 [submodule "active_storage_demo"]
 	path = active_storage_demo
 	url = ./active_storage_demo
+[submodule "propshaft_test"]
+	path = propshaft_test
+	url = ./propshaft_test/
