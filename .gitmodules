@@ -4,3 +4,6 @@
 [submodule "propshaft_test"]
 	path = propshaft_test
 	url = ./propshaft_test/
+[submodule "normalize_examples"]
+	path = normalize_examples
+	url = ./normalize_examples/
