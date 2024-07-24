@@ -7,3 +7,6 @@
 [submodule "normalize_examples"]
 	path = normalize_examples
 	url = ./normalize_examples/
+[submodule "api_rate_limiter"]
+	path = api_rate_limiter
+	url = ./api_rate_limiter/
