@@ -10,3 +10,6 @@
 [submodule "api_rate_limiter"]
 	path = api_rate_limiter
 	url = ./api_rate_limiter/
+[submodule "stimulus-starter"]
+	path = stimulus-starter
+	url = ./stimulus-starter/
