@@ -13,3 +13,6 @@
 [submodule "stimulus-starter"]
 	path = stimulus-starter
 	url = ./stimulus-starter/
+[submodule "sidekiq_to_solidqueue"]
+	path = sidekiq_to_solidqueue
+	url = ./sidekiq_to_solidqueue/
