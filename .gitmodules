@@ -16,3 +16,6 @@
 [submodule "sidekiq_to_solidqueue"]
 	path = sidekiq_to_solidqueue
 	url = ./sidekiq_to_solidqueue/
+[submodule "turbo_view_transitions"]
+	path = turbo_view_transitions
+	url = ./turbo_view_transitions/
