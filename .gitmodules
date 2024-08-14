@@ -19,3 +19,6 @@
 [submodule "turbo_view_transitions"]
 	path = turbo_view_transitions
 	url = ./turbo_view_transitions/
+[submodule "turbo_view_transitions_demo"]
+	path = turbo_view_transitions_demo
+	url = ./turbo_view_transitions_demo/
