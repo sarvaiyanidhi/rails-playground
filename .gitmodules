@@ -22,3 +22,6 @@
 [submodule "turbo_view_transitions_demo"]
 	path = turbo_view_transitions_demo
 	url = ./turbo_view_transitions_demo/
+[submodule "enum_test_app"]
+	path = enum_test_app
+	url = ./enum_test_app/
