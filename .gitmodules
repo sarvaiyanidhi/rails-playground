@@ -25,3 +25,6 @@
 [submodule "enum_test_app"]
 	path = enum_test_app
 	url = ./enum_test_app/
+[submodule "caller_demo"]
+	path = caller_demo
+	url = ./caller_demo/
