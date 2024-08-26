@@ -28,3 +28,6 @@
 [submodule "caller_demo"]
 	path = caller_demo
 	url = ./caller_demo/
+[submodule "pin_comment_app"]
+	path = pin_comment_app
+	url = ./pin_comment_app/
