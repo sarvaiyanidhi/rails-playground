@@ -31,3 +31,6 @@
 [submodule "pin_comment_app"]
 	path = pin_comment_app
 	url = ./pin_comment_app/
+[submodule "date_demo"]
+	path = date_demo
+	url = ./date_demo/
