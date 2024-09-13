@@ -34,3 +34,6 @@
 [submodule "date_demo"]
 	path = date_demo
 	url = ./date_demo/
+[submodule "hotwire_course"]
+	path = hotwire_course
+	url = ./hotwire_course/
