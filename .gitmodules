@@ -40,3 +40,6 @@
 [submodule "hotwire_todo_list"]
 	path = hotwire_todo_list
 	url = ./hotwire_todo_list/
+[submodule "pry_debugging_demo"]
+	path = pry_debugging_demo
+	url = ./pry_debugging_demo/
