@@ -43,3 +43,6 @@
 [submodule "pry_debugging_demo"]
 	path = pry_debugging_demo
 	url = ./pry_debugging_demo/
+[submodule "test_auth"]
+	path = test_auth
+	url = ./test_auth/
