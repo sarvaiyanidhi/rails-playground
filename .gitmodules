@@ -49,3 +49,6 @@
 [submodule "copy-clipboard-demo"]
 	path = copy-clipboard-demo
 	url = ./copy-clipboard-demo/
+[submodule "show-password-demo"]
+	path = show-password-demo
+	url = ./show-password-demo/
