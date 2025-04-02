@@ -46,3 +46,6 @@
 [submodule "test_auth"]
 	path = test_auth
 	url = ./test_auth/
+[submodule "copy-clipboard-demo"]
+	path = copy-clipboard-demo
+	url = ./copy-clipboard-demo/
