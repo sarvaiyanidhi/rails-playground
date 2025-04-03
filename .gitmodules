@@ -52,3 +52,6 @@
 [submodule "show-password-demo"]
 	path = show-password-demo
 	url = ./show-password-demo/
+[submodule "auto-submit-demo"]
+	path = auto-submit-demo
+	url = ./auto-submit-demo/
