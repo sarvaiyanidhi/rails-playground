@@ -55,3 +55,6 @@
 [submodule "auto-submit-demo"]
 	path = auto-submit-demo
 	url = ./auto-submit-demo/
+[submodule "auto_submit_demo"]
+	path = auto_submit_demo
+	url = ./auto_submit_demo/
